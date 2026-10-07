@@ -1,0 +1,122 @@
+[
+  {
+    "product_id": "P001",
+    "name": "Nike Air Zoom Running Shoes",
+    "category": "Shoes",
+    "color": "Black",
+    "price": 120.0,
+    "stock": 10,
+    "description": "Breathable black running shoes with responsive zoom cushioning for marathon training.",
+    "image": "/static/images/nike_air_zoom.jpg"
+  },
+  {
+    "product_id": "P002",
+    "name": "Black Sports T-Shirt",
+    "category": "Shirt",
+    "color": "Black",
+    "price": 25.0,
+    "stock": 18,
+    "description": "Quick-drying black athletic short-sleeve t-shirt with red accent lining.",
+    "image": "/static/images/black_tshirt.jpg"
+  },
+  {
+    "product_id": "P003",
+    "name": "Black Running Shorts",
+    "category": "Shorts",
+    "color": "Black",
+    "price": 30.0,
+    "stock": 22,
+    "description": "Lightweight breathable black running shorts with elastic waistband and inner brief.",
+    "image": "/static/images/black_shorts.jpg"
+  },
+  {
+    "product_id": "P004",
+    "name": "Adidas Ultraboost Running Shoes",
+    "category": "Shoes",
+    "color": "Grey/Black",
+    "price": 100.0,
+    "stock": 15,
+    "description": "High performance running shoes with boost energy return sole and primeknit upper.",
+    "image": "/static/images/adidas_ultraboost.jpg"
+  },
+  {
+    "product_id": "P005",
+    "name": "Classic Canvas Sneakers",
+    "category": "Shoes",
+    "color": "White",
+    "price": 55.0,
+    "stock": 30,
+    "description": "Timeless white canvas casual shoes with vulcanized rubber sole.",
+    "image": "/static/images/canvas_sneakers.jpg"
+  },
+  {
+    "product_id": "P006",
+    "name": "Asics Red Running Shoes",
+    "category": "Shoes",
+    "color": "Red",
+    "price": 110.0,
+    "stock": 0,
+    "description": "Stability running shoes in bright red colorway engineered for road marathons.",
+    "image": "/static/images/asics_red.jpg"
+  },
+  {
+    "product_id": "P007",
+    "name": "Genuine Leather Wallet",
+    "category": "Accessory",
+    "color": "Brown",
+    "price": 40.0,
+    "stock": 12,
+    "description": "Slim bifold brown genuine leather wallet with RFID blocking.",
+    "image": "/static/images/leather_wallet_full.jpg"
+  },
+  {
+    "product_id": "P008",
+    "name": "Waterproof Outdoor Jacket",
+    "category": "Jacket",
+    "color": "Blue",
+    "price": 85.0,
+    "stock": 8,
+    "description": "Windproof and waterproof blue hooded shell jacket for hiking and sports.",
+    "image": "/static/images/waterproof_jacket.jpg"
+  },
+  {
+    "product_id": "P009",
+    "name": "Water-Resistant Laptop Backpack",
+    "category": "Bag",
+    "color": "Grey",
+    "price": 65.0,
+    "stock": 14,
+    "description": "Durable backpack with dedicated padded sleeve to carry 15.6 inch laptop.",
+    "image": "/static/images/laptop_backpack.jpg"
+  },
+  {
+    "product_id": "P010",
+    "name": "Noise Cancelling Wireless Headphones",
+    "category": "Electronics",
+    "color": "Black",
+    "price": 95.0,
+    "stock": 7,
+    "description": "Over-ear bluetooth headphones with active noise cancellation and deep bass.",
+    "image": "/static/images/wireless_headphones.jpg"
+  },
+  {
+    "product_id": "P011",
+    "name": "Sports Waterproof Smartwatch",
+    "category": "Electronics",
+    "color": "Black",
+    "price": 150.0,
+    "stock": 9,
+    "description": "Fitness tracking smartwatch with heart rate monitor, GPS and waterproof casing.",
+    "image": "/static/images/sports_smartwatch.jpg"
+  },
+  {
+    "product_id": "P012",
+    "name": "Polarized Classic Sunglasses",
+    "category": "Accessory",
+    "color": "Tortoise/Black",
+    "price": 45.0,
+    "stock": 16,
+    "description": "UV400 polarized classic sunglasses with lightweight acetate frame.",
+    "image": "/static/images/classic_sunglasses.jpg"
+  }
+]

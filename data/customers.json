@@ -1,0 +1,16 @@
+[
+  {
+    "customer_id": "C001",
+    "full_name": "Nguyen Kim An",
+    "phone": "0912345678",
+    "email": "ankn@example.com",
+    "shipping_address": "25 Le Loi Street, District 1, Ho Chi Minh City"
+  },
+  {
+    "customer_id": "C002",
+    "full_name": "Chu Tuyet Nhi",
+    "phone": "0987654321",
+    "email": "nhict@example.com",
+    "shipping_address": "12 Tran Hung Dao, Hoan Kiem District, Hanoi"
+  }
+]

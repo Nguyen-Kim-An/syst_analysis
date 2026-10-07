@@ -1,0 +1,57 @@
+[
+  {
+    "order_id": "O001",
+    "customer_id": "C001",
+    "date": "2026-09-28",
+    "status": "Shipped",
+    "shipping_address": "25 Le Loi Street, District 1, Ho Chi Minh City",
+    "items": [
+      {
+        "product_id": "P001",
+        "name": "Nike Air Zoom Running Shoes",
+        "image": "/static/images/nike_air_zoom.jpg",
+        "quantity": 1,
+        "price": 120.0
+      },
+      {
+        "product_id": "P007",
+        "name": "Leather Wallet",
+        "image": "/static/images/leather_wallet_full.jpg",
+        "quantity": 1,
+        "price": 40.0
+      }
+    ]
+  },
+  {
+    "order_id": "O002",
+    "customer_id": "C002",
+    "date": "2026-09-30",
+    "status": "Processing",
+    "shipping_address": "12 Tran Hung Dao, Hoan Kiem District, Hanoi",
+    "items": [
+      {
+        "product_id": "P004",
+        "name": "Adidas Ultraboost Running Shoes",
+        "image": "/static/images/adidas_ultraboost.jpg",
+        "quantity": 2,
+        "price": 100.0
+      }
+    ]
+  },
+  {
+    "order_id": "O003",
+    "customer_id": "C001",
+    "date": "2026-09-15",
+    "status": "Delivered",
+    "shipping_address": "25 Le Loi Street, District 1, Ho Chi Minh City",
+    "items": [
+      {
+        "product_id": "P008",
+        "name": "Waterproof Outdoor Jacket",
+        "image": "/static/images/waterproof_jacket.jpg",
+        "quantity": 1,
+        "price": 85.0
+      }
+    ]
+  }
+]
